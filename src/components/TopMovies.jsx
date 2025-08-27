@@ -31,10 +31,11 @@ const TopMovies = ({ movies }) => {
           @keyframes scroll {
             0% { transform: translateX(0); }
             100% { transform: translateX(-50%); }
+            
           }
           .animate-scroll {
             display: flex;
-            animation: scroll 20s linear infinite;
+            animation: scroll 10s linear infinite;
           }
         `}
             </style>
