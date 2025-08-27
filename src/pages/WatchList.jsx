@@ -1,6 +1,6 @@
 
 import { useEffect, useState } from "react";
-import Card from "../components/card";
+import Card from "../components/Card";
 import { getWatchlist } from "../utils/watchlist";
 
 export default function Watchlist() {

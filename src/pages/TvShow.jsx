@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { useOutletContext } from "react-router-dom";
-import Card from "../components/card";
+import Card from "../components/Card";
 import Pagination from "../components/Pagination";
 
 const API_KEY = "825756834f524a6e7be93d98510fb233";

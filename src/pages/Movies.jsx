@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-import Card from "../components/card";
+import Card from "../components/Card";
 import Pagination from "../components/Pagination";
 
 const API_KEY = "49a0f5496f58b89e1b9cb2cb8a35220b";
